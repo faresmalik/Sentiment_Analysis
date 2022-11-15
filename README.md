@@ -2,7 +2,9 @@
 # Sentiment Analysis for Tweets (Positive/Negative)  
 This repository includes the code for tweets analysis (positive/negative) using Neural Network (NN). 
 
-![Method](Figures\sentiment-analysis-machine-learning-techniques.png)
+<hr />
+
+![Method](Figures/sentiment-analysis-machine-learning-techniques.png)
 
 # Description 
 - All python files include the functions required to preprocess the data, create data loaders, create model and train/evaluate the model. 
